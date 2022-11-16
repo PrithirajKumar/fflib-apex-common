@@ -9,3 +9,8 @@
     "sfdcLoginUrl": "https://login.salesforce.com",
     "sourceApiVersion": "55.0"
 }
+{
+  "engines": {
+    "node": "16.x"
+  }
+}
